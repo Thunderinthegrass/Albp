@@ -1,567 +1,5 @@
 let lessons = [
   [
-    //lesson4.1==============================
-    [
-      "Я всё вижу",
-      "Моя сестра живёт там",
-      "Этот урок кажется интересным",
-      "Этот урок помогает мне",
-      "Я всё понимаю",
-      "Мои родители знают это",
-      "Её брат часто говорит это",
-      "То предложение кажется странным",
-      "Мой босс всегда говорит это",
-      "Его уроки кажутся очень полезными",
-      "Мой брат хочет это",
-      "У его отца есть машина",
-      "Мои родители хотят сделать это",
-      "Твои уроки реально помогают",
-      "Моя сестра учится там",
-      "Эти уроки помогают мне",
-      "Они всё знают",
-      "Мой брат пытается сделать это",
-      "Их идеи кажутся очень интересными",
-      "Мой босс обычно проверяет всю информацию",
-      "Моя сестра живёт в этом месте",
-      "У моего друга есть машина",
-      "У него есть компания",
-      "Её прибыль кажется такой большой",
-      "Мой босс всё знает",
-      "Наша мама думает так же",
-      "Мой босс читает все документы",
-      "Эти уроки кажутся очень полезными",
-      "Это предложение выглядит интересным",
-      "У этой компании есть деньги",
-      "Эти уроки реально помогают",
-      "Я чувствую это",
-    ],
-    [
-      "I see everything",
-      "My sister lives there",
-      "This lesson seems interesting",
-      "This lesson helps me",
-      "I understand everything",
-      "My parents know it",
-      "Her brother often says it",
-      "That offer seems strange",
-      "My boss always says it",
-      "His lessons seem very useful",
-      "My brother wants it",
-      "His father has a car",
-      "My parents want to do it",
-      "Your lessons really help",
-      "My sister studies there",
-      "There lessons help me",
-      "They know everything",
-      "My brother tries to do it",
-      "Their ideas seem very interesting",
-      "My boss usually checks all the information",
-      "My sister lives in this place",
-      "My friend has a car",
-      "He has a company",
-      "Its profit seems so big",
-      "My boss knows everything",
-      "Our mother thinks the same",
-      "My boss reeds all the documents",
-      "These lessons seem very useful",
-      "This offer looks interesting",
-      "This company has money",
-      "These lessons really help",
-      "I feel it",
-    ],
-  ],
-
-  [
-    //lesson7.1=======================================================
-    //become - стать
-    [
-      "Мне нравится это видео",
-      "Мне нравится эта вещь",
-      "Я хотел бы выпить чашку кофе",
-      "Мне нравится этот плейлист",
-      "Я хотел бы сделать это",
-      "Я хотел бы посетить это место",
-      "Я хотел бы чашку кофе",
-      "Я хотел бы стать бизнесменом",
-      "Она хотела бы стать учительницей",
-      "Ему нравится это платье",
-      "Я вижу, тебе реально нравится английский",
-      "Моему другу нравится этот отель",
-      "Мне нравится английский",
-      "Мне действительно нравится этот плейлист",
-      "Мне нравится этот канал",
-      "Ей нравится это место",
-      "Тебе нравится это",
-      "Ей нравится это",
-      "Я вижу, ему это реально нравится",
-      "Мне действително нравится этот канал",
-      "Я хотел бы знать английский очень хорошо",
-      "Им нравится это",
-      "Мне нравится это",
-      "Я хотел бы выпить чашку чая",
-      "Я знаю, им это нравится",
-      "Мне нравится этот метод",
-      "Нам нравится это",
-      "Я хотел бы чашку чая",
-      "Мне так же нравится этот канал",
-      "Мне нравится этот канал так же",
-      "Мне реально нравится это место",
-      "Мне реально это нравится",
-      "Он хотел бы стать врачом",
-      "Мне нравятся твои уроки",
-      "Я хотел бы стать бизнесменом",
-      "Мне реально нравятя эти уроки",
-      "Я хотел бы стать менеджером",
-      "Мне нравится эта идея",
-      "Я хотел бы поехать за границу",
-      "Она хотела бы поехать в другое место",
-    ],
-
-    [
-      "I like this video",
-      "I like this thing",
-      "I`d like to drink a cup of coffee",
-      "I like this playlist",
-      "I`d like to do it",
-      "I`d like to visit this place",
-      "I`d like a cup of coffee",
-      "I`d like to become a businessman",
-      "She`d like to become a teacher",
-      "He likes this dress",
-      "I see you really like English",
-      "My friend likes this hotel",
-      "I like English",
-      "I really like this playlist",
-      "I like this shannel",
-      "She likes this place",
-      "You like it",
-      "She likes it",
-      "I see he really likes it",
-      "I really like this shannel",
-      "I`d like to know English very well",
-      "They like it",
-      "I like it",
-      "I`d like to drink a cup of tea",
-      "I know they like it",
-      "I like this method",
-      "We like it",
-      "I`d like a cup of tea",
-      "I also like this shannel",
-      "I like this cshannel, too",
-      "I really like this place",
-      "I really like it",
-      "He`d like to become a doctor",
-      "I like your lessons",
-      "I`d like to become a businessman",
-      "I really like these lessons",
-      "I`d like to become a manager",
-      "I like this idea",
-      "I`d like to go abroad",
-      "She`d like to go to another place",
-    ],
-  ],
-  [
-    //lesson 8===========================================================
-    //Present Simple (negative form) - простое настоящее время (негативная форма, отрицание)
-    //I, We, You, They + don't + verb
-    //He, She, It + doesn't + verb (s к глаголу при отрицании не добавляется, добавляется только в утверждении - He wants, He doesn't want)
-    //agree diskuss later
-    //говорить на каком-то языке - speak
-    //просто что-то сказать - say
-    //если сказать кому-то - tell (tell me, I tell you)
-    [
-      "Я знаю",
-      "Я не знаю",
-      "Мы понимаем",
-      "Мы не понимаем",
-      "Ты пытаешься выучить английский",
-      "Ты не пытаешься выучить английский",
-      "Они помогают мне",
-      "Они не помогают мне",
-      "Я согласен с тобой",
-      "Я не согласен с тобой",
-      "Мне нравится это",
-      "Мне не нравится это",
-      "Я хочу учиться там",
-      "Я не хочу учиться там",
-      "Я хочу обсудить это",
-      "Я не хочу обсуждать это",
-      "Я хочу сделать это прямо сейчас",
-      "Я не хочу делать это прямо сейчас",
-      "Я хочу сделать это позже",
-      "Я не хочу говорить это",
-      "Я не хочу говорить тебе эту вещь",
-      "Я не хочу говорить тебе об этой проблеме",
-      "Я не хочу думать об этом",
-      "Он знает это",
-      "Он не знает это",
-      "Она не хочет обсуждать это",
-      "Это не помогает мне",
-      "Это не кажется странным",
-      "Это не работает",
-    ],
-
-    [
-      "I know",
-      "I don't know",
-      "We understand",
-      "We don't understand",
-      "You try to learn English",
-      "You don't try to learn English",
-      "They help me",
-      "They don't help me",
-      "I agree with you",
-      "I don't agree with you",
-      "I like it",
-      "I don't like it",
-      "I want to study there",
-      "I don't want study there",
-      "I want to discuss it",
-      "I don't want to discuss it",
-      "I want to do it right now",
-      "I don't to do it right now",
-      "I want to do it later",
-      "I don't want to say it",
-      "I won't want to tell you this thing",
-      "I don't want to tell you about rhis problem",
-      "I don't want to think about it",
-      "He knows it",
-      "He doesn't know it",
-      "She doesn't want to discuss it",
-      "It doesn't help me",
-      "It doesn't seem strange",
-      "It doesn't work",
-    ],
-  ],
-  [
-    //8.1
-    //those - те
-    //there - там
-    //that - тот
-    [
-      "Ты не пытаешься выучить английский",
-      "Это не работает",
-      "Я не хочу это знать",
-      "Я не согласен с тобой",
-      "Мне не нравится это",
-      "Она не хочет обсуждать это",
-      "Он не работает там",
-      "Он работает здесь",
-      "Он не знает это",
-      "Это не кажется странным",
-      "Я не знаю",
-      "Она не помнит это",
-      "Он не хочет читать эти книги",
-      "Он хочет читать те книги",
-      "Я не хочу говорить это",
-      "У него нет этой информации",
-      "Я не хочу играть в компьютерные игры",
-      "Я не знаю этого человека",
-      "Я не хочу делать это прямо сейчас",
-      "Он не хочет пытаться найти хорошую работу",
-      "Он не пытается найти хорошую работу",
-      "Я не хочу жить в этой стране",
-      "Мой друг не думает так",
-      "Я не хочу говорить тебе об этой проблеме",
-      "Я не хочу учиться там",
-      "Мы не хотим жить в другом месте",
-      "Это не кажется полезным",
-      "Они не помогают мне",
-      "Я не хочу говорить тебе эту вещь",
-      "Я не хочу думать об этом",
-      "Я не понимаю этих людей",
-      "Мы не понимаем это",
-      "Я не хочу обсуждать это",
-      "У него нет машины",
-      "Я не хочу пить",
-      "Я не хочу жить в том городе",
-      "Это не помогает мне",
-    ],
-
-    [
-      "You don't try to learn Ebglish",
-      "It doesn't work",
-      "I don't want to know it",
-      "I don't agree with you",
-      "I don't like it",
-      "She doesn't want to discuss it",
-      "He doesn't work there",
-      "He works here",
-      "He doesn't know it",
-      "It doesn't seem strange",
-      "I don't know",
-      "She doesn't remember it",
-      "He doesn't want to read these books",
-      "He wants to read those books",
-      "I don't want to say it",
-      "He doesn't have this information",
-      "I don't want to play computer games",
-      "I don't know this person",
-      "I don't want to do it right now",
-      "He doesn't want to try to find a good job",
-      "He doesn't try to find a good job",
-      "I don't want to leave in this country",
-      "My friend doesn't think so",
-      "I don't want to tell you about this problem",
-      "I don't want to study there",
-      "We don't want to leave in another place",
-      "It doesn't seem useful",
-      "They don't help me",
-      "I don't want to tell you this thing",
-      "I don't want to think about it",
-      "I don't understand this people",
-      "We doesn't understand it",
-      "I don't want to discuss it",
-      "He doesn't have a car",
-      "I don't want to drink",
-      "I don't want to leave in that city",
-      "It doesn't help me",
-    ],
-  ],
-  [
-    //lesson 9
-    //interest - интересовать
-    //me - меня
-    //attract - привлекать
-    //recommend - рекомендовать
-    //change - изменить
-    //partner - партнёр
-    //him - его (не знает его, не верит ему)
-    //his - его (его книга)
-    //them - им (не звоним им)
-    //us - нам (верит нам)
-    //their - их
-    //My friend and I - мы с моим другом
-    //money в англицском языке неисчисляемы, поэтому они it
-    //bring - приносить
-    //happy - счастливый
-    //happiness - счастье
-    //неисчисляемому неопределенный артикль не нужен
-    // если прилагательное и существительное в единственном числе, то ставится артикль а, если существительное во множественном числе, то не ставится
-    //make - делать (делать кого-то далее прилагательное)
-    //late - поздно
-    //later- позже
-    //Its - его, её(когда речь идёт о неодушевлённом предмете)
-    [
-      "Эта вещь не интересует меня",
-      "Эти вещи не привлекают меня",
-      "Та вещь не кажется интересной",
-      "Те вещи не кажутся странными",
-      "Те уроки не кажутся полезными",
-      "Эти уроки кажутся очень полезными",
-      "Тот метод не помогает",
-      "Этот метод реально помогает",
-      "Мой брат не хочет думать о своём будущем",
-      "Моя сестра не знает этого человека",
-      "Мои друзья не рекомендуют этот отель",
-      "Его сын не хочет стать доктором",
-      "Её дочь не хочет учиться там",
-      "Его родители не чувствуют себя счастливыми",
-      "Этот человек не пытается изменить свою жизнь",
-      "Мой босс не видит её",
-      "Мой партнёр не знает его",
-      "Мы с моим другом не звоним им",
-      "Наш учитель не верит нам",
-      "Он думает деньги не приносят людям счастье",
-      "Она думает деньги не делают людей счастливыми",
-      "Я действительно хочу сделать вас счастливыми",
-    ],
-
-    [
-      "This thing doesn't interest me",
-      "These things don't attract me",
-      "That thing doesn't seem interesting",
-      "Those things don't seem strange",
-      "Those lessons don't seem useful",
-      "These lessons seem very useful",
-      "That method doesn't help",
-      "This method really helps",
-      "My brother doesn't want to think about his future",
-      "My sister doesn't know this person",
-      "My friends don't recommended this hotel",
-      "His son doesn't want to become a doctor",
-      "Her daughter doesn't want to learn there",
-      "His parents don't feel happy",
-      "This person doesn't try to change his life",
-      "My boss doesn't see her",
-      "My partner doesn't know him",
-      "My friend and I don't call them",
-      "Our teacher doesn't believe us",
-      "He thinks money doesn't bring peoele happiness",
-      "She thinks money doesn't make people happy",
-      "I reallywant to make you happy",
-    ],
-  ],
-  [
-    //lesson 9.1========================================================================
-    //fluently - свободно, бегло
-    [
-      "То предложение не кажется странным",
-      "Его босс не говорит по английски свободно",
-      "Мои родители не обсуждают это",
-      "Эти вещи не привлекают меня",
-      "Те вещи не кажутся странными",
-      "Его сын не хочет стать доктором",
-      "Наш учитель не верит нам",
-      "Мой партнёр не знает его",
-      "Моему другу не нравится эта идея",
-      "Она думает деньги не делают людей счастливыми",
-      "Этот человек не пытается изменить свою жизнь",
-      "Мой босс не видит её",
-      "Эта вещь не привлекает меня",
-      "Мои друзья не рекомендуют этот отель",
-      "Моя сестра не знает этого человека",
-      "Мой брат не хочет думать о своём будущем",
-      "Мы с моим другом не звоним им",
-      "Мой друг не думает так",
-      "Мой друг не думает так же",
-      "Те уроки не кажутся полезными",
-      "Эти уроки кажутся очень полезными",
-      "Моя сестра не хочет делать это позже",
-      "Она хочет сделать это прямо сейчас",
-      "Эта вещь не интересует меня",
-      "Её прибыль не кажется большой",
-      "Мой друг не пытается делать это",
-      "Их компания не пытается делать это",
-      "Та вещь не кажется интересной",
-      "Моя сестра не хочет учиться там",
-      "Тот метод не работает",
-      "Этот метод реально помогает",
-      "Их родители не чувствуют себя счастливыми",
-      "Он думает деньги не приносят людям счастье",
-      "Это предложение не кажется таким интересным",
-      "Наша компания не хочет этого",
-      "Мой друг не согласен со мной",
-    ],
-
-    [
-      "That offer doesn't seem strange",
-      "His boss doesn't speak English fluently",
-      "My parents don't diskuss it",
-      "These things don't attract me",
-      "Those things don't seem strange",
-      "His son doesn't want to become a doctor",
-      "Our teacher doesn't believe us",
-      "My partner doesn't know him",
-      "My friend doesn't like this idea",
-      "She thinks money doesn't make people happy",
-      "This person doesn't try to change his life",
-      "My boss doesn't see her",
-      "This thing doesn't attract me",
-      "My friends don't recommend this hotel",
-      "My sister doesn't know this person",
-      "My brother doesn't want think about his future",
-      "My friend and I don't call them",
-      "My friend doesn't think so",
-      "My friend doesn't think the same",
-      "Those lessons don't seem useful",
-      "These lessons seem very useful",
-      "My sister doesn't want to do it late",
-      "She wants to do it right now",
-      "This thing doesn't interest me",
-      "Its profit doesn't seem big",
-      "My friend doesn't try to do it",
-      "Their company doesn't try to do it",
-      "That thing doesn't seem interesting",
-      "My sister doesn't want to study there",
-      "That method doesn't work",
-      "This method really helps",
-      "Their parents don't fill happy",
-      "He think money doesn't bring people happiness",
-      "This offer doesn't seem so interesting",
-      "Our company doesn't want it",
-      "My friend doesn't agree with me",
-    ],
-  ],
-  [
-    //lesson 10==============
-    // I need it -  мне нужно это
-    // hard - усердно
-    // harder - усердней
-    // correct - исплавлять
-    // I need to solve this problem -  мне нужно решить эту проблему(устойчивое выражение)
-    // remember - запомнить
-    // rule - правило
-    // improve - улучшить
-    // any - каких-либо
-    // at all - вовсе, ставится в конце
-    // advice - совет
-    // less - меньше
-    // correctly - правильно
-    [
-      "Мне нужна эта информация",
-      "Мне нужна эта вещь",
-      "Мне нужно сделать это",
-      "Мне нужно проверить это",
-      "Мне нужно учиться усердней",
-      "Мне нужно выучить английский",
-      "Мне нужно исправить эту ошибку",
-      "Мне нужно увидеть её",
-      "Мне нужно позвонить ему",
-      "Мне нужно позвонить им",
-      "Мне нужно это",
-      "Нам нужно это",
-      "Тебе нужно это",
-      "Им нужно это",
-      "Ему нужно это",
-      "Ей нужно это",
-      "Мне реально нужен английский",
-      "Мне реально это нужно",
-      "Ты мне действительно нужна",
-      "Мне действително нужно знать английский",
-      "Мне реально нужны твои уроки",
-      "Мне нужно решить эту проблему",
-      "Ей нужно исправить эти ошибки",
-      "Ему нужно найти хорошую работу",
-      "Тебе нужно запомнить это правило",
-      "Тебе нужно запомнить это",
-      "Мне нужно улучшить свой английский",
-      "Мне нужно говорить по-английски без ошибок",
-      "Мне нужно говорить по-английски вовсе без каких-либо ошибок",
-      "Моему другу нужна твоя помощь",
-      "Моему другу нужет твой совет",
-      "Мне нужен твой совет",
-      "Его отцу нужны деньги",
-      "Твоей маме нужно работать меньше",
-    ],
-
-    [
-      "I need this information",
-      "I need this thing",
-      "I need to do it",
-      "I need to check it",
-      "I need to study harder",
-      "I need to learn English",
-      "I need to correct this mistake",
-      "I need to see her",
-      "I need to call him",
-      "I need to call them",
-      "I need it",
-      "We need it",
-      "You need it",
-      "They need it",
-      "He needs it",
-      "She needs it",
-      "I really need English",
-      "I really need it",
-      "I really need you",
-      "I really need to know English",
-      "I really need your lessons",
-      "I need to solve this problem",
-      "She needs to correct these mistakes",
-      "She needs to find a good job",
-      "You need to remember this rule",
-      "You need to remember it",
-      "I need to improve my English",
-      "I need to speak English without mistakes",
-      "I need to speak English without any mistakes at all",
-      "My friend needs your help",
-      "My friend needs your advice",
-      "His father needs money",
-      "Your mother needs to work less",
-    ],
-  ],
-  [
     // lesson 10.1===========================================
     [
       "Мне нужно говорить по-английски вовсе без каких-либо ошибок",
@@ -1291,7 +729,7 @@ let lessons = [
       "I don't want to play computer games",
       "I'd like to drink a cup of tea",
       "I want a new computer",
-      "I don't understand this people",
+      "I don't understand these people",
       "Her likes this place",
       "I'd like to become businessman",
       "He has a good car",
@@ -3317,6 +2755,721 @@ let allLessons = {
         {id: 32, phraseRu: "Я чувствую это", phraseEn: "I feel it"},
       ]
     },
+    lesson_4_1: {//8
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        {id: 1, phraseRu: "Я всё вижу", phraseEn: "I see everything" },
+        {id: 2, phraseRu: "Моя сестра живёт там", phraseEn: "My sister lives there"},
+        {id: 3, phraseRu: "Этот урок кажется интересным", phraseEn: "This lesson seems interesting"},
+        {id: 4, phraseRu: "Этот урок помогает мне", phraseEn: "This lesson helps me"},
+        {id: 5, phraseRu: "Я всё понимаю", phraseEn: "I understand everything"},
+        {id: 6, phraseRu: "Мои родители знают это", phraseEn: "My parents know it"},
+        {id: 7, phraseRu: "Её брат часто говорит это", phraseEn: "Her brother often says it"},
+        {id: 8, phraseRu: "То предложение кажется странным", phraseEn: "That offer seems strange"},
+        {id: 9, phraseRu: "Мой босс всегда говорит это", phraseEn: "My boss always says it"},
+        {id: 10, phraseRu: "Его уроки кажутся очень полезными", phraseEn: "His lessons seem very useful"},
+        {id: 11, phraseRu: "Мой брат хочет это", phraseEn: "My brother wants it"},
+        {id: 12, phraseRu: "У его отца есть машина", phraseEn: "His father has a car"},
+        {id: 13, phraseRu: "Мои родители хотят сделать это", phraseEn: "My parents want to do it"},
+        {id: 14, phraseRu: "Твои уроки реально помогают", phraseEn: "Your lessons really help"},
+        {id: 15, phraseRu: "Моя сестра учится там", phraseEn: "My sister studies there"},
+        {id: 16, phraseRu: "Эти уроки помогают мне", phraseEn: "There lessons help me"},
+        {id: 17, phraseRu: "Они всё знают", phraseEn: "They know everything" },
+        {id: 18, phraseRu: "Мой брат пытается сделать это", phraseEn: "My brother tries to do it"},
+        {id: 19, phraseRu: "Их идеи кажутся очень интересными", phraseEn: "Their ideas seem very interesting"},
+        {id: 20, phraseRu: "Мой босс обычно проверяет всю информацию", phraseEn: "My boss usually checks all the information"},
+        {id: 21, phraseRu: "Моя сестра живёт в этом месте", phraseEn: "My sister lives in this place"},
+        {id: 22, phraseRu: "У моего друга есть машина", phraseEn: "My friend has a car"},
+        {id: 23, phraseRu: "У него есть компания", phraseEn: "He has a company" },
+        {id: 24, phraseRu: "Её прибыль кажется такой большой", phraseEn: "Its profit seems so big"},
+        {id: 25, phraseRu: "Мой босс всё знает", phraseEn: "My boss knows everything"},
+        {id: 26, phraseRu: "Наша мама думает так же", phraseEn: "Our mother thinks the same"},
+        {id: 27, phraseRu: "Мой босс читает все документы", phraseEn: "My boss reeds all the documents"},
+        {id: 28, phraseRu: "Эти уроки кажутся очень полезными", phraseEn: "These lessons seem very useful"},
+        {id: 29, phraseRu: "Это предложение выглядит интересным", phraseEn: "This offer looks interesting"},
+        {id: 30, phraseRu: "У этой компании есть деньги", phraseEn: "This company has money"},
+        {id: 31, phraseRu: "Эти уроки реально помогают", phraseEn: "These lessons really help"},
+        {id: 32, phraseRu: "Я чувствую это", phraseEn: "I feel it" },
+      ]
+    },
+    lesson_7_1: {//16
+      newWords: [
+        {id: 1, wordRu: "стать", wordEn: "become"}
+      ],
+      phrases: [
+        {id: 1, phraseRu: "Мне нравится это видео", phraseEn: "I like this video"},
+        {id: 2, phraseRu: "Мне нравится эта вещь", phraseEn: "I like this thing"},
+        {id: 3, phraseRu: "Я хотел бы выпить чашку кофе", phraseEn: "I`d like to drink a cup of coffee"},
+        {id: 4, phraseRu: "Мне нравится этот плейлист", phraseEn: "I like this playlist"},
+        {id: 5, phraseRu: "Я хотел бы сделать это", phraseEn: "I`d like to do it"},
+        {id: 6, phraseRu: "Я хотел бы посетить это место", phraseEn: "I`d like to visit this place"},
+        {id: 7, phraseRu: "Я хотел бы чашку кофе", phraseEn: "I`d like a cup of coffee"},
+        {id: 8, phraseRu: "Я хотел бы стать бизнесменом", phraseEn: "I`d like to become a businessman"},
+        {id: 9, phraseRu: "Она хотела бы стать учительницей", phraseEn: "She`d like to become a teacher"},
+        {id: 10, phraseRu: "Ему нравится это платье", phraseEn: "He likes this dress"},
+        {id: 11, phraseRu: "Я вижу, тебе реально нравится английский", phraseEn: "I see you really like English"},
+        {id: 12, phraseRu: "Моему другу нравится этот отель", phraseEn: "My friend likes this hotel"},
+        {id: 13, phraseRu: "Мне нравится английский", phraseEn: "I like English"},
+        {id: 14, phraseRu: "Мне действительно нравится этот плейлист", phraseEn: "I really like this playlist"},
+        {id: 15, phraseRu: "Мне нравится этот канал", phraseEn: "I like this shannel"},
+        {id: 16, phraseRu: "Ей нравится это место", phraseEn: "She likes this place"},
+        {id: 17, phraseRu: "Тебе нравится это", phraseEn: "You like it"},
+        {id: 18, phraseRu: "Ей нравится это", phraseEn: "She likes it"},
+        {id: 19, phraseRu: "Я вижу, ему это реально нравится", phraseEn: "I see he really likes it"},
+        {id: 20, phraseRu: "Мне действително нравится этот канал", phraseEn: "I really like this shannel"},
+        {id: 21, phraseRu: "Я хотел бы знать английский очень хорошо", phraseEn: "I`d like to know English very well"},
+        {id: 22, phraseRu: "Им нравится это", phraseEn: "They like it"},
+        {id: 23, phraseRu: "Мне нравится это", phraseEn: "I like it"},
+        {id: 24, phraseRu: "Я хотел бы выпить чашку чая", phraseEn: "I`d like to drink a cup of tea"},
+        {id: 25, phraseRu: "Я знаю, им это нравится", phraseEn: "I know they like it"},
+        {id: 26, phraseRu: "Мне нравится этот метод", phraseEn: "I like this method"},
+        {id: 27, phraseRu: "Нам нравится это", phraseEn: "We like it"},
+        {id: 28, phraseRu: "Я хотел бы чашку чая", phraseEn: "I`d like a cup of tea"},
+        {id: 29, phraseRu: "Мне так же нравится этот канал", phraseEn: "I also like this shannel"},
+        {id: 30, phraseRu: "Мне нравится этот канал так же", phraseEn: "I like this cshannel, too"},
+        {id: 31, phraseRu: "Мне реально нравится это место", phraseEn: "I really like this place"},
+        {id: 32, phraseRu: "Мне реально это нравится", phraseEn: "I really like it"},
+        {id: 33, phraseRu: "Он хотел бы стать врачом", phraseEn: "He`d like to become a doctor"},
+        {id: 34, phraseRu: "Мне нравятся твои уроки", phraseEn: "I like your lessons"},
+        {id: 35, phraseRu: "Я хотел бы стать бизнесменом", phraseEn: "I`d like to become a businessman"},
+        {id: 36, phraseRu: "Мне реально нравятя эти уроки", phraseEn: "I really like these lessons"},
+        {id: 37, phraseRu: "Я хотел бы стать менеджером", phraseEn: "I`d like to become a manager"},
+        {id: 38, phraseRu: "Мне нравится эта идея", phraseEn: "I like this idea"},
+        {id: 39, phraseRu: "Я хотел бы поехать за границу", phraseEn: "I`d like to go abroad"},
+        {id: 40, phraseRu: "Она хотела бы поехать в другое место", phraseEn: "She`d like to go to another place"},
+      ]
+    },
+    lesson_8: {//17
+      rules: [
+        'Present Simple (negative form) - простое настоящее время (негативная форма, отрицание)',
+        'I, We, You, They + don\'t + verb',
+        'He, She, It + doesn\'t + verb (s к глаголу при отрицании не добавляется, добавляется только в утверждении - He wants, He doesn\'t want)',
+        'agree diskuss later',
+        'говорить на каком-то языке - speak',
+        'просто что-то сказать - say',
+        'если сказать кому-то - tell (tell me, I tell you)'
+      ],
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        {id: 1, phraseRu: "Я знаю", phraseEn: "I know"},
+        {id: 2, phraseRu: "Я не знаю", phraseEn: "I don't know"},
+        {id: 3, phraseRu: "Мы понимаем", phraseEn: "We understand"},
+        {id: 4, phraseRu: "Мы не понимаем", phraseEn: "We don't understand"},
+        {id: 5, phraseRu: "Ты пытаешься выучить английский", phraseEn: "You try to learn English"},
+        {id: 6, phraseRu: "Ты не пытаешься выучить английский", phraseEn: "You don't try to learn English"},
+        {id: 7, phraseRu: "Они помогают мне", phraseEn: "They help me"},
+        {id: 8, phraseRu: "Они не помогают мне", phraseEn: "They don't help me"},
+        {id: 9, phraseRu: "Я согласен с тобой", phraseEn: "I agree with you"},
+        {id: 10, phraseRu: "Я не согласен с тобой", phraseEn: "I don't agree with you"},
+        {id: 11, phraseRu: "Мне нравится это", phraseEn: "I like it"},
+        {id: 12, phraseRu: "Мне не нравится это", phraseEn: "I don't like it"},
+        {id: 13, phraseRu: "Я хочу учиться там", phraseEn: "I want to study there"},
+        {id: 14, phraseRu: "Я не хочу учиться там", phraseEn: "I don't want study there"},
+        {id: 15, phraseRu: "Я хочу обсудить это", phraseEn: "I want to discuss it"},
+        {id: 16, phraseRu: "Я не хочу обсуждать это", phraseEn: "I don't want to discuss it"},
+        {id: 17, phraseRu: "Я хочу сделать это прямо сейчас", phraseEn: "I want to do it right now"},
+        {id: 18, phraseRu: "Я не хочу делать это прямо сейчас", phraseEn: "I don't to do it right now"},
+        {id: 19, phraseRu: "Я хочу сделать это позже", phraseEn: "I want to do it later"},
+        {id: 20, phraseRu: "Я не хочу говорить это", phraseEn: "I don't want to say it"},
+        {id: 21, phraseRu: "Я не хочу говорить тебе эту вещь", phraseEn: "I won't want to tell you this thing"},
+        {id: 22, phraseRu: "Я не хочу говорить тебе об этой проблеме", phraseEn: "I don't want to tell you about rhis problem"},
+        {id: 23, phraseRu: "Я не хочу думать об этом", phraseEn: "I don't want to think about it"},
+        {id: 24, phraseRu: "Он знает это", phraseEn: "He knows it" },
+        {id: 25, phraseRu: "Он не знает это", phraseEn: "He doesn't know it" },
+        {id: 26, phraseRu: "Она не хочет обсуждать это", phraseEn: "She doesn't want to discuss it"},
+        {id: 27, phraseRu: "Это не помогает мне", phraseEn: "It doesn't help me" },
+        {id: 28, phraseRu: "Это не кажется странным", phraseEn: "It doesn't seem strange"},
+        {id: 29, phraseRu: "Это не работает", phraseEn: "It doesn't work" },
+      ]
+    },
+    lesson_8_1: {//18
+      newWords: [
+        {id: 1, wordRu: "те", wordEn: "those"},
+        {id: 2, wordRu: "там", wordEn: "there"},
+        {id: 3, wordRu: "тот", wordEn: "that"}
+      ],
+      phrases: [
+        {id: 1, phraseRu: "Ты не пытаешься выучить английский", phraseEn: "You don't try to learn Ebglish"},
+        {id: 2, phraseRu: "Это не работает", phraseEn: "It doesn't work" },
+        {id: 3, phraseRu: "Я не хочу это знать", phraseEn: "I don't want to know it"},
+        {id: 4, phraseRu: "Я не согласен с тобой", phraseEn: "I don't agree with you"},
+        {id: 5, phraseRu: "Мне не нравится это", phraseEn: "I don't like it" },
+        {id: 6, phraseRu: "Она не хочет обсуждать это", phraseEn: "She doesn't want to discuss it"},
+        {id: 7, phraseRu: "Он не работает там", phraseEn: "He doesn't work there"},
+        {id: 8, phraseRu: "Он работает здесь", phraseEn: "He works here" },
+        {id: 9, phraseRu: "Он не знает это", phraseEn: "He doesn't know it" },
+        {id: 10, phraseRu: "Это не кажется странным", phraseEn: "It doesn't seem strange"},
+        {id: 11, phraseRu: "Я не знаю", phraseEn: "I don't know" },
+        {id: 12, phraseRu: "Она не помнит это", phraseEn: "She doesn't remember it"},
+        {id: 13, phraseRu: "Он не хочет читать эти книги", phraseEn: "He doesn't want to read these books"},
+        {id: 14, phraseRu: "Он хочет читать те книги", phraseEn: "He wants to read those books"},
+        {id: 15, phraseRu: "Я не хочу говорить это", phraseEn: "I don't want to say it"},
+        {id: 16, phraseRu: "У него нет этой информации", phraseEn: "He doesn't have this information"},
+        {id: 17, phraseRu: "Я не хочу играть в компьютерные игры", phraseEn: "I don't want to play computer games"},
+        {id: 18, phraseRu: "Я не знаю этого человека", phraseEn: "I don't know this person"},
+        {id: 19, phraseRu: "Я не хочу делать это прямо сейчас", phraseEn: "I don't want to do it right now"},
+        {id: 20, phraseRu: "Он не хочет пытаться найти хорошую работу", phraseEn: "He doesn't want to try to find a good job"},
+        {id: 21, phraseRu: "Он не пытается найти хорошую работу", phraseEn: "He doesn't try to find a good job"},
+        {id: 22, phraseRu: "Я не хочу жить в этой стране", phraseEn: "I don't want to leave in this country"},
+        {id: 23, phraseRu: "Мой друг не думает так", phraseEn: "My friend doesn't think so"},
+        {id: 24, phraseRu: "Я не хочу говорить тебе об этой проблеме", phraseEn: "I don't want to tell you about this problem"},
+        {id: 25, phraseRu: "Я не хочу учиться там", phraseEn: "I don't want to study there"},
+        {id: 26, phraseRu: "Мы не хотим жить в другом месте", phraseEn: "We don't want to leave in another place"},
+        {id: 27, phraseRu: "Это не кажется полезным", phraseEn: "It doesn't seem useful"},
+        {id: 28, phraseRu: "Они не помогают мне", phraseEn: "They don't help me"},
+        {id: 29, phraseRu: "Я не хочу говорить тебе эту вещь", phraseEn: "I don't want to tell you this thing"},
+        {id: 30, phraseRu: "Я не хочу думать об этом", phraseEn: "I don't want to think about it"},
+        {id: 31, phraseRu: "Я не понимаю этих людей", phraseEn: "I don't understand these people"},
+        {id: 32, phraseRu: "Мы не понимаем это", phraseEn: "We doesn't understand it"},
+        {id: 33, phraseRu: "Я не хочу обсуждать это", phraseEn: "I don't want to discuss it"},
+        {id: 34, phraseRu: "У него нет машины", phraseEn: "He doesn't have a car"},
+        {id: 35, phraseRu: "Я не хочу пить", phraseEn: "I don't want to drink"},
+        {id: 36, phraseRu: "Я не хочу жить в том городе", phraseEn: "I don't want to leave in that city"},
+        {id: 37, phraseRu: "Это не помогает мне", phraseEn: "It doesn't help me"},
+      ]
+    },
+    lesson_9: {//19
+      rules: [
+        {id: 1, rule: "money в англицском языке неисчисляемы, поэтому они it"},
+        {id: 2, rule: "неисчисляемому неопределенный артикль не нужен"},
+        {id: 3, rule: "если прилагательное и существительное в единственном числе, то ставится артикль а, если существительное во множественном числе, то не ставится"},
+      ],
+      newWords: [
+        {id: 1, wordRu: "интересовать", wordEn: "interest"},
+        {id: 2, wordRu: "меня", wordEn: "me"},
+        {id: 3, wordRu: "привлекать", wordEn: "attract"},
+        {id: 4, wordRu: "рекоммендовать", wordEn: "recommend"},
+        {id: 5, wordRu: "изменить", wordEn: "change"},
+        {id: 6, wordRu: "партнер", wordEn: "partner"},
+        {id: 7, wordRu: "его(не знает его, не верит ему)", wordEn: "him"},
+        {id: 8, wordRu: "его(его книга)", wordEn: "his"},
+        {id: 9, wordRu: "им", wordEn: "him"},
+        {id: 10, wordRu: "нам", wordEn: "us"},
+        {id: 11, wordRu: "их", wordEn: "their"},
+        {id: 12, wordRu: "мы с моим другом", wordEn: "my friend and I"},
+        {id: 13, wordRu: "приносить", wordEn: "bring"},
+        {id: 14, wordRu: "счастливый", wordEn: "happy"},
+        {id: 15, wordRu: "счастье", wordEn: "happiness"},
+        {id: 16, wordRu: "делать(делать кого-то далее прилагательное)", wordEn: "make"},
+        {id: 17, wordRu: "поздно", wordEn: "late"},
+        {id: 18, wordRu: "позже", wordEn: "later"},
+        {id: 19, wordRu: "его, ее(когда речь идёт о неодушевлённом предмете)", wordEn: "Its"}
+      ],
+      phrases: [
+        {id: 1, phraseRu: "Эта вещь не интересует меня", phraseEn: "This thing doesn't interest me"},
+        {id: 2, phraseRu: "Эти вещи не привлекают меня", phraseEn: "These things don't attract me"},
+        {id: 3, phraseRu: "Та вещь не кажется интересной", phraseEn: "That thing doesn't seem interesting"},
+        {id: 4, phraseRu: "Те вещи не кажутся странными", phraseEn: "Those things don't seem strange"},
+        {id: 5, phraseRu: "Те уроки не кажутся полезными", phraseEn: "Those lessons don't seem useful"},
+        {id: 6, phraseRu: "Эти уроки кажутся очень полезными", phraseEn: "These lessons seem very useful"},
+        {id: 7, phraseRu: "Тот метод не помогает", phraseEn: "That method doesn't help"},
+        {id: 8, phraseRu: "Этот метод реально помогает", phraseEn: "This method really helps"},
+        {id: 9, phraseRu: "Мой брат не хочет думать о своём будущем", phraseEn: "My brother doesn't want to think about his future"},
+        {id: 10, phraseRu: "Моя сестра не знает этого человека", phraseEn: "My sister doesn't know this person"},
+        {id: 11, phraseRu: "Мои друзья не рекомендуют этот отель", phraseEn: "My friends don't recommended this hotel"},
+        {id: 12, phraseRu: "Его сын не хочет стать доктором", phraseEn: "His son doesn't want to become a doctor"},
+        {id: 13, phraseRu: "Её дочь не хочет учиться там", phraseEn: "Her daughter doesn't want to learn there"},
+        {id: 14, phraseRu: "Его родители не чувствуют себя счастливыми", phraseEn: "His parents don't feel happy"},
+        {id: 15, phraseRu: "Этот человек не пытается изменить свою жизнь", phraseEn: "This person doesn't try to change his life"},
+        {id: 16, phraseRu: "Мой босс не видит её", phraseEn: "My boss doesn't see her"},
+        {id: 17, phraseRu: "Мой партнёр не знает его", phraseEn: "My partner doesn't know him"},
+        {id: 18, phraseRu: "Мы с моим другом не звоним им", phraseEn: "My friend and I don't call them"},
+        {id: 19, phraseRu: "Наш учитель не верит нам", phraseEn: "Our teacher doesn't believe us"},
+        {id: 20, phraseRu: "Он думает деньги не приносят людям счастье", phraseEn: "He thinks money doesn't bring peoele happiness"},
+        {id: 21, phraseRu: "Она думает деньги не делают людей счастливыми", phraseEn: "She thinks money doesn't make people happy"},
+        {id: 22, phraseRu: "Я действительно хочу сделать вас счастливыми", phraseEn: "I reallywant to make you happy"},
+      ]
+    },
+    lesson_9_1: {//20
+      newWords: [
+        {id: 1, wordRu: "свободно, бегло", wordEn: "fluently"}
+      ],
+      phrases: [
+        {id: 1, phraseRu: "То предложение не кажется странным", phraseEn: "That offer doesn't seem strange",},
+        {id: 2, phraseRu: "Его босс не говорит по английски свободно", phraseEn: "His boss doesn't speak English fluently",},
+        {id: 3, phraseRu: "Мои родители не обсуждают это", phraseEn: "My parents don't diskuss it",},
+        {id: 4, phraseRu: "Эти вещи не привлекают меня", phraseEn: "These things don't attract me",},
+        {id: 5, phraseRu: "Те вещи не кажутся странными", phraseEn: "Those things don't seem strange",},
+        {id: 6, phraseRu: "Его сын не хочет стать доктором", phraseEn: "His son doesn't want to become a doctor",},
+        {id: 7, phraseRu: "Наш учитель не верит нам", phraseEn: "Our teacher doesn't believe us",},
+        {id: 8, phraseRu: "Мой партнёр не знает его", phraseEn: "My partner doesn't know him",},
+        {id: 9, phraseRu: "Моему другу не нравится эта идея", phraseEn: "My friend doesn't like this idea",},
+        {id: 10, phraseRu: "Она думает деньги не делают людей счастливыми", phraseEn: "She thinks money doesn't make people happy",},
+        {id: 11, phraseRu: "Этот человек не пытается изменить свою жизнь", phraseEn: "This person doesn't try to change his life",},
+        {id: 12, phraseRu: "Мой босс не видит её", phraseEn: "My boss doesn't see her",},
+        {id: 13, phraseRu: "Эта вещь не привлекает меня", phraseEn: "This thing doesn't attract me",},
+        {id: 14, phraseRu: "Мои друзья не рекомендуют этот отель", phraseEn: "My friends don't recommend this hotel",},
+        {id: 15, phraseRu: "Моя сестра не знает этого человека", phraseEn: "My sister doesn't know this person",},
+        {id: 16, phraseRu: "Мой брат не хочет думать о своём будущем", phraseEn: "My brother doesn't want think about his future",},
+        {id: 17, phraseRu: "Мы с моим другом не звоним им", phraseEn: "My friend and I don't call them",},
+        {id: 18, phraseRu: "Мой друг не думает так", phraseEn: "My friend doesn't think so",},
+        {id: 19, phraseRu: "Мой друг не думает так же", phraseEn: "My friend doesn't think the same",},
+        {id: 20, phraseRu: "Те уроки не кажутся полезными", phraseEn: "Those lessons don't seem useful",},
+        {id: 21, phraseRu: "Эти уроки кажутся очень полезными", phraseEn: "These lessons seem very useful",},
+        {id: 22, phraseRu: "Моя сестра не хочет делать это позже", phraseEn: "My sister doesn't want to do it late",},
+        {id: 23, phraseRu: "Она хочет сделать это прямо сейчас", phraseEn: "She wants to do it right now",},
+        {id: 24, phraseRu: "Эта вещь не интересует меня", phraseEn: "This thing doesn't interest me",},
+        {id: 25, phraseRu: "Её прибыль не кажется большой", phraseEn: "Its profit doesn't seem big",},
+        {id: 26, phraseRu: "Мой друг не пытается делать это", phraseEn: "My friend doesn't try to do it",},
+        {id: 27, phraseRu: "Их компания не пытается делать это", phraseEn: "Their company doesn't try to do it",},
+        {id: 28, phraseRu: "Та вещь не кажется интересной", phraseEn: "That thing doesn't seem interesting",},
+        {id: 29, phraseRu: "Моя сестра не хочет учиться там", phraseEn: "My sister doesn't want to study there",},
+        {id: 30, phraseRu: "Тот метод не работает", phraseEn: "That method doesn't work",},
+        {id: 31, phraseRu: "Этот метод реально помогает", phraseEn: "This method really helps",},
+        {id: 32, phraseRu: "Их родители не чувствуют себя счастливыми", phraseEn: "Their parents don't fill happy",},
+        {id: 33, phraseRu: "Он думает деньги не приносят людям счастье", phraseEn: "He think money doesn't bring people happiness",},
+        {id: 34, phraseRu: "Это предложение не кажется таким интересным", phraseEn: "This offer doesn't seem so interesting",},
+        {id: 35, phraseRu: "Наша компания не хочет этого", phraseEn: "Our company doesn't want it",},
+        {id: 36, phraseRu: "Мой друг не согласен со мной", phraseEn: "My friend doesn't agree with me",},
+      ],
+    },
+    lesson_10: {//21
+      newWords: [
+        {id: 1, wordRu: "I need it", wordEn: "мне нужно это"},
+        {id: 1, wordRu: "hard", wordEn: "усердно"},
+        {id: 1, wordRu: "harder", wordEn: "усердней"},
+        {id: 1, wordRu: "correct", wordEn: "исправлять"},
+        {id: 1, wordRu: "I need to solve this problem", wordEn: "мне нужно решить эту проблему(устойчивое выражение)"},
+        {id: 1, wordRu: "remember", wordEn: "запомнить"},
+        {id: 1, wordRu: "rule", wordEn: "правило"},
+        {id: 1, wordRu: "improve", wordEn: "улучшить"},
+        {id: 1, wordRu: "any", wordEn: "каких-либо"},
+        {id: 1, wordRu: "at all", wordEn: "вовсе, ставится в конце"},
+        {id: 1, wordRu: "advice", wordEn: "совет"},
+        {id: 1, wordRu: "less", wordEn: "меньше"},
+        {id: 1, wordRu: "correctly", wordEn: "правильно"},
+      ],
+      phrases: [
+        {id: 1, phraseRu: "Мне нужна эта информация", phraseEn: "I need this information"},
+        {id: 2, phraseRu: "Мне нужна эта вещь", phraseEn: "I need this thing" },
+        {id: 3, phraseRu: "Мне нужно сделать это", phraseEn: "I need to do it" },
+        {id: 4, phraseRu: "Мне нужно проверить это", phraseEn: "I need to check it"},
+        {id: 5, phraseRu: "Мне нужно учиться усердней", phraseEn: "I need to study harder"},
+        {id: 6, phraseRu: "Мне нужно выучить английский", phraseEn: "I need to learn English"},
+        {id: 7, phraseRu: "Мне нужно исправить эту ошибку", phraseEn: "I need to correct this mistake"},
+        {id: 8, phraseRu: "Мне нужно увидеть её", phraseEn: "I need to see her" },
+        {id: 9, phraseRu: "Мне нужно позвонить ему", phraseEn: "I need to call him"},
+        {id: 10, phraseRu: "Мне нужно позвонить им", phraseEn: "I need to call them"},
+        {id: 11, phraseRu: "Мне нужно это", phraseEn: "I need it" },
+        {id: 12, phraseRu: "Нам нужно это", phraseEn: "We need it" },
+        {id: 13, phraseRu: "Тебе нужно это", phraseEn: "You need it" },
+        {id: 14, phraseRu: "Им нужно это", phraseEn: "They need it" },
+        {id: 15, phraseRu: "Ему нужно это", phraseEn: "He needs it" },
+        {id: 16, phraseRu: "Ей нужно это", phraseEn: "She needs it" },
+        {id: 17, phraseRu: "Мне реально нужен английский", phraseEn: "I really need English"},
+        {id: 18, phraseRu: "Мне реально это нужно", phraseEn: "I really need it" },
+        {id: 19, phraseRu: "Ты мне действительно нужна", phraseEn: "I really need you"},
+        {id: 20, phraseRu: "Мне действително нужно знать английский", phraseEn: "I really need to know English"},
+        {id: 21, phraseRu: "Мне реально нужны твои уроки", phraseEn: "I really need your lessons"},
+        {id: 22, phraseRu: "Мне нужно решить эту проблему", phraseEn: "I need to solve this problem"},
+        {id: 23, phraseRu: "Ей нужно исправить эти ошибки", phraseEn: "She needs to correct these mistakes"},
+        {id: 24, phraseRu: "Ему нужно найти хорошую работу", phraseEn: "She needs to find a good job"},
+        {id: 25, phraseRu: "Тебе нужно запомнить это правило", phraseEn: "You need to remember this rule"},
+        {id: 26, phraseRu: "Тебе нужно запомнить это", phraseEn: "You need to remember it"},
+        {id: 27, phraseRu: "Мне нужно улучшить свой английский", phraseEn: "I need to improve my English"},
+        {id: 28, phraseRu: "Мне нужно говорить по-английски без ошибок", phraseEn: "I need to speak English without mistakes"},
+        {id: 29, phraseRu: "Мне нужно говорить по-английски вовсе без каких-либо ошибок", phraseEn: "I need to speak English without any mistakes at all"},
+        {id: 30, phraseRu: "Моему другу нужна твоя помощь", phraseEn: "My friend needs your help"},
+        {id: 31, phraseRu: "Моему другу нужет твой совет", phraseEn: "My friend needs your advice"},
+        {id: 32, phraseRu: "Мне нужен твой совет", phraseEn: "I need your advice"},
+        {id: 33, phraseRu: "Его отцу нужны деньги", phraseEn: "His father needs money"},
+        {id: 34, phraseRu: "Твоей маме нужно работать меньше", phraseEn: "Your mother needs to work less"},
+      ],
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        
+      ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     lesson_24: {//53
       newWords: [
         {id: 1, wordRu: "порядок слов", wordEn: "word order"},
@@ -3741,58 +3894,58 @@ let allLessons = {
         {id: 1, wordRu: "далее", wordEn: "next"},
       ],
       phrases: [
-        {id: 1, phraseRu: "У меня есть идея", phraseEn: ""},
-        {id: 2, phraseRu: "Как ты обычно добираешься до того места?", phraseEn: ""},
-        {id: 3, phraseRu: "Я не понимаю этих людей", phraseEn: ""},
-        {id: 4, phraseRu: "Как регулярно ты говоришь по-английски?", phraseEn: ""},
-        {id: 5, phraseRu: "У него есть доллары", phraseEn: ""},
-        {id: 6, phraseRu: "Эта вещь привлекает меня", phraseEn: ""},
-        {id: 7, phraseRu: "В какое время она уходит из дома?", phraseEn: ""},
-        {id: 8, phraseRu: "Когда ты чувствуешь себя счастливой?", phraseEn: ""},
-        {id: 9, phraseRu: "Он хотел бы стать врачем", phraseEn: ""},
+        {id: 1, phraseRu: "У меня есть идея", phraseEn: "I have an idea"},
+        {id: 2, phraseRu: "Как ты обычно добираешься до того места?", phraseEn: "How usually do you get to these place?"},
+        {id: 3, phraseRu: "Я не понимаю этих людей", phraseEn: "I don`t understand these people"},
+        {id: 4, phraseRu: "Как регулярно ты говоришь по-английски?", phraseEn: "How regularly do you speak English?"},
+        {id: 5, phraseRu: "У него есть доллары", phraseEn: "He has dollars"},
+        {id: 6, phraseRu: "Эта вещь привлекает меня", phraseEn: "This thing attracts me"},
+        {id: 7, phraseRu: "В какое время она уходит из дома?", phraseEn: "What time does she leave home?"},
+        {id: 8, phraseRu: "Когда ты чувствуешь себя счастливой?", phraseEn: "When do you feels happy?"},
+        {id: 9, phraseRu: "Он хотел бы стать врачем", phraseEn: "He`d like to become a doctor"},
         {id: 10, phraseRu: "Он делает так много ошибок", phraseEn: "He does so many mistakes"},
-        {id: 11, phraseRu: "Какие книги ты читаешь?", phraseEn: ""},
-        {id: 12, phraseRu: "Она ходит в школу", phraseEn: ""},
-        {id: 13, phraseRu: "Я поддерживаю это решение", phraseEn: ""},
-        {id: 14, phraseRu: "Кого это мотивирует?", phraseEn: ""},
-        {id: 15, phraseRu: "Это кажется бесполезным", phraseEn: ""},
-        {id: 16, phraseRu: "У тебя есть свободное время?", phraseEn: ""},
-        {id: 17, phraseRu: "Ты согласен с ним?", phraseEn: ""},
-        {id: 18, phraseRu: "Какие каналы он смотрит?", phraseEn: ""},
-        {id: 19, phraseRu: "Я хотел бы посетить это место", phraseEn: ""},
-        {id: 20, phraseRu: "Я знаю это", phraseEn: ""},
-        {id: 21, phraseRu: "Нам нравится это", phraseEn: ""},
-        {id: 22, phraseRu: "Я люблю тебя", phraseEn: ""},
-        {id: 23, phraseRu: "В какое время твоя мама приходит на работу?", phraseEn: ""},
-        {id: 24, phraseRu: "Она смотрит телевизор", phraseEn: ""},
-        {id: 25, phraseRu: "Почему тыхочешь посетить это место?", phraseEn: ""},
-        {id: 26, phraseRu: "Кого он поддерживает?", phraseEn: ""},
-        {id: 27, phraseRu: "Он хочет купить эту вещь", phraseEn: ""},
-        {id: 28, phraseRu: "Она хочет больше практики", phraseEn: ""},
-        {id: 29, phraseRu: "Я не хочу сказать это", phraseEn: ""},
-        {id: 30, phraseRu: "Эта вещь кажется важной?", phraseEn: ""},
-        {id: 31, phraseRu: "Он часто говорит по-английски?", phraseEn: ""},
-        {id: 32, phraseRu: "Моему другу нравится этот отель", phraseEn: ""},
-        {id: 33, phraseRu: "Я действительно хочу это", phraseEn: ""},
-        {id: 34, phraseRu: "Это кажется скучным?", phraseEn: ""},
-        {id: 35, phraseRu: "Я чувствую это", phraseEn: ""},
-        {id: 36, phraseRu: "Это происходит", phraseEn: ""},
-        {id: 37, phraseRu: "В какого рода компьютерные игры они играют?", phraseEn: ""},
-        {id: 38, phraseRu: "Мне нужно решить эти проблемы", phraseEn: ""},
-        {id: 39, phraseRu: "Мне нравится этот канал", phraseEn: ""},
-        {id: 40, phraseRu: "Те уроки мне вовсе не помогают", phraseEn: ""},
-        {id: 41, phraseRu: "Эти уроки реально помогают", phraseEn: ""},
-        {id: 42, phraseRu: "Я нахожу их очень полезными", phraseEn: ""},
-        {id: 43, phraseRu: "Почему это выглядит странным?", phraseEn: ""},
-        {id: 44, phraseRu: "Как часто ты ходишь в зал?", phraseEn: ""},
-        {id: 45, phraseRu: "Эта информавция кажется неважной?", phraseEn: ""},
-        {id: 46, phraseRu: "Ты согласен с ней?", phraseEn: ""},
-        {id: 47, phraseRu: "Я работаю здесь", phraseEn: ""},
-        {id: 48, phraseRu: "Что она хочет добавить?", phraseEn: ""},
-        {id: 49, phraseRu: "Я хотел бы очень хорошо знать английский", phraseEn: ""},
-        {id: 50, phraseRu: "Наша мама думает так же", phraseEn: ""},
-        {id: 51, phraseRu: "То предложение кажется странным", phraseEn: ""},
-        {id: 52, phraseRu: "Этот проект кажется очень интересным", phraseEn: ""},
+        {id: 11, phraseRu: "Какие книги ты читаешь?", phraseEn: "What book do you read?"},
+        {id: 12, phraseRu: "Она ходит в школу", phraseEn: "She goes to school"},
+        {id: 13, phraseRu: "Я поддерживаю это решение", phraseEn: "I support this desition"},
+        {id: 14, phraseRu: "Кого это мотивирует?", phraseEn: "Who supports it?"},
+        {id: 15, phraseRu: "Это кажется бесполезным", phraseEn: "It seems useless"},
+        {id: 16, phraseRu: "У тебя есть свободное время?", phraseEn: "Do you have a free time?"},
+        {id: 17, phraseRu: "Ты согласен с ним?", phraseEn: "Do you agree with him?"},
+        {id: 18, phraseRu: "Какие каналы он смотрит?", phraseEn: "What channels does he watch?"},
+        {id: 19, phraseRu: "Я хотел бы посетить это место", phraseEn: "I`d like to visit this place"},
+        {id: 20, phraseRu: "Я знаю это", phraseEn: "I know it"},
+        {id: 21, phraseRu: "Нам нравится это", phraseEn: "I like it"},
+        {id: 22, phraseRu: "Я люблю тебя", phraseEn: "I love you"},
+        {id: 23, phraseRu: "В какое время твоя мама приходит на работу?", phraseEn: "What time does your mother come to work?"},
+        {id: 24, phraseRu: "Она смотрит телевизор", phraseEn: "She watshes TV"},
+        {id: 25, phraseRu: "Почему ты хочешь посетить это место?", phraseEn: "Why do you want to visit this place?"},
+        {id: 26, phraseRu: "Кого он поддерживает?", phraseEn: "Who does he support?"},
+        {id: 27, phraseRu: "Он хочет купить эту вещь", phraseEn: "He has to buy this thing"},
+        {id: 28, phraseRu: "Она хочет больше практики", phraseEn: "She wants more practice"},
+        {id: 29, phraseRu: "Я не хочу сказать это", phraseEn: "I don`t want to say it"},
+        {id: 30, phraseRu: "Эта вещь кажется важной?", phraseEn: "This thing seems important?"},
+        {id: 31, phraseRu: "Он часто говорит по-английски?", phraseEn: "Does he often speak English?"},
+        {id: 32, phraseRu: "Моему другу нравится этот отель", phraseEn: "My friend likes this hotel"},
+        {id: 33, phraseRu: "Я действительно хочу это", phraseEn: "I really want it"},
+        {id: 34, phraseRu: "Это кажется скучным?", phraseEn: "It seems boring?"},
+        {id: 35, phraseRu: "Я чувствую это", phraseEn: "I feel it"},
+        {id: 36, phraseRu: "Это происходит", phraseEn: "It happens"},
+        {id: 37, phraseRu: "В какого рода компьютерные игры они играют?", phraseEn: "What kind of computer games do they work?"},
+        {id: 38, phraseRu: "Мне нужно решить эти проблемы", phraseEn: "I need to solve these problems"},
+        {id: 39, phraseRu: "Мне нравится этот канал", phraseEn: "I like this shannel"},
+        {id: 40, phraseRu: "Те уроки мне вовсе не помогают", phraseEn: "That lessons don`t help me at all"},
+        {id: 41, phraseRu: "Эти уроки реально помогают", phraseEn: "These lessons really help"},
+        {id: 42, phraseRu: "Я нахожу их очень полезными", phraseEn: "I find them very useful"},
+        {id: 43, phraseRu: "Почему это выглядит странным?", phraseEn: "Why does it seems strange?"},
+        {id: 44, phraseRu: "Как часто ты ходишь в зал?", phraseEn: "How often do you go to the gym?"},
+        {id: 45, phraseRu: "Эта информавция кажется неважной?", phraseEn: "This information seems unimportant?"},
+        {id: 46, phraseRu: "Ты согласен с ней?", phraseEn: "Do you agree with her?"},
+        {id: 47, phraseRu: "Я работаю здесь", phraseEn: "I work here"},
+        {id: 48, phraseRu: "Что она хочет добавить?", phraseEn: "What does she want to add?"},
+        {id: 49, phraseRu: "Я хотел бы очень хорошо знать английский", phraseEn: "I`d like to know English very well"},
+        {id: 50, phraseRu: "Наша мама думает так же", phraseEn: "Our mother thinks the same"},
+        {id: 51, phraseRu: "То предложение кажется странным", phraseEn: "That offer seems strange"},
+        {id: 52, phraseRu: "Этот проект кажется очень интересным", phraseEn: "This project seems very interesting"},
       ]
     },
     lesson_24_1: {//61 проверить
@@ -3800,57 +3953,57 @@ let allLessons = {
         {id: 1, wordRu: "", wordEn: ""}
       ],
       phrases: [
-        {id: 1, phraseRu: "Как он обычно проводит свое свободное время?", phraseEn: ""},
-        {id: 2, phraseRu: "Как она добирается домой?", phraseEn: ""},
-        {id: 3, phraseRu: "У него есть дом", phraseEn: ""},
-        {id: 4, phraseRu: "Ей нужен твой совет", phraseEn: ""},
-        {id: 5, phraseRu: "Что они хотят сказать тебе?", phraseEn: ""},
-        {id: 6, phraseRu: "Мы не хотим жить в другом месте", phraseEn: ""},
-        {id: 7, phraseRu: "Мне действительно это нужно", phraseEn: ""},
-        {id: 8, phraseRu: "Что беспокоит тебя?", phraseEn: ""},
-        {id: 9, phraseRu: "Что ты хочешь сделать?", phraseEn: ""},
-        {id: 10, phraseRu: "У его отца есть машина", phraseEn: ""},
-        {id: 11, phraseRu: "Она хотела бы стать учительницей", phraseEn: ""},
-        {id: 12, phraseRu: "Что он пытается делать?", phraseEn: ""},
-        {id: 13, phraseRu: "Я хочу эту вещь", phraseEn: ""},
-        {id: 14, phraseRu: "Мой босс всегда говорит это", phraseEn: ""},
-        {id: 15, phraseRu: "Когда это происходит?", phraseEn: ""},
-        {id: 16, phraseRu: "У этой компании есть деньги", phraseEn: ""},
-        {id: 17, phraseRu: "У него есть компания", phraseEn: ""},
-        {id: 18, phraseRu: "Ее прибыль кажется такой большой", phraseEn: ""},
-        {id: 19, phraseRu: "Она помнит это", phraseEn: ""},
-        {id: 20, phraseRu: "Мне реально нужны твои уроки", phraseEn: ""},
-        {id: 21, phraseRu: "Те студенты говорят по-английски правильно?", phraseEn: ""},
-        {id: 22, phraseRu: "Я хочу говорить по-английски правильно", phraseEn: ""},
-        {id: 23, phraseRu: "Я хочу хорошую машину", phraseEn: ""},
-        {id: 24, phraseRu: "Где он работает?", phraseEn: ""},
-        {id: 25, phraseRu: "Как часто происходят эти вещи?", phraseEn: ""},
-        {id: 26, phraseRu: "Кто знает это?", phraseEn: ""},
-        {id: 27, phraseRu: "Она видит эту ошибку", phraseEn: ""},
-        {id: 28, phraseRu: "Я хочу улучшить свой английский", phraseEn: ""},
-        {id: 29, phraseRu: "Мои родители хотят жить в другом месте", phraseEn: ""},
-        {id: 30, phraseRu: "Твои друзья согласны с тобой?", phraseEn: ""},
-        {id: 31, phraseRu: "Он игнорирует все?", phraseEn: ""},
-        {id: 32, phraseRu: "Эти результаты мотивируют тебя?", phraseEn: ""},
-        {id: 33, phraseRu: "Ты хочешь знать свои ошибки?", phraseEn: ""},
-        {id: 34, phraseRu: "Ты согасен с ними?", phraseEn: ""},
-        {id: 35, phraseRu: "Мне нужно позвонить ему", phraseEn: ""},
-        {id: 36, phraseRu: "Что интересует тебя?", phraseEn: ""},
-        {id: 37, phraseRu: "Я действительно хочу улучшить свою грамматику", phraseEn: ""},
-        {id: 38, phraseRu: "Я хочу поехать туда еще один раз", phraseEn: ""},
-        {id: 39, phraseRu: "Я учусь здесь", phraseEn: ""},
-        {id: 40, phraseRu: "Я хочу этот компьютер", phraseEn: ""},
-        {id: 41, phraseRu: "Она часто говорит это?", phraseEn: ""},
-        {id: 42, phraseRu: "Я не знаю", phraseEn: ""},
-        {id: 43, phraseRu: "Тот студент делает ошибки?", phraseEn: ""},
-        {id: 44, phraseRu: "Нам нужно больше информации", phraseEn: ""},
-        {id: 45, phraseRu: "Они показывают блестящие результаты", phraseEn: ""},
-        {id: 46, phraseRu: "Мы помним это", phraseEn: ""},
-        {id: 47, phraseRu: "Ты часто посещаешь это место?", phraseEn: ""},
-        {id: 48, phraseRu: "Какие советы она дает тебе?", phraseEn: ""},
-        {id: 49, phraseRu: "Ты часто делаешь это?", phraseEn: ""},
-        {id: 50, phraseRu: "Я хотел бы поехать за границу", phraseEn: ""},
-        {id: 51, phraseRu: "Почему это интересует его?", phraseEn: ""},
+        {id: 1, phraseRu: "Как он обычно проводит свое свободное время?", phraseEn: "How does he usually spend his free time?"},
+        {id: 2, phraseRu: "Как она добирается домой?", phraseEn: "How does she get home?"},
+        {id: 3, phraseRu: "У него есть дом", phraseEn: "He has a home"},
+        {id: 4, phraseRu: "Ей нужен твой совет", phraseEn: "She needs your advice"},
+        {id: 5, phraseRu: "Что они хотят сказать тебе?", phraseEn: "What do they want to say you?"},
+        {id: 6, phraseRu: "Мы не хотим жить в другом месте", phraseEn: "We don`t want to live in another place"},
+        {id: 7, phraseRu: "Мне действительно это нужно", phraseEn: "I really need it"},
+        {id: 8, phraseRu: "Что беспокоит тебя?", phraseEn: "What warries you?"},
+        {id: 9, phraseRu: "Что ты хочешь сделать?", phraseEn: "What do you want to do?"},
+        {id: 10, phraseRu: "У его отца есть машина", phraseEn: "His father has a car"},
+        {id: 11, phraseRu: "Она хотела бы стать учительницей", phraseEn: "She`d like to become a teacher"},
+        {id: 12, phraseRu: "Что он пытается делать?", phraseEn: "What does he try to do?"},
+        {id: 13, phraseRu: "Я хочу эту вещь", phraseEn: "I want this thing"},
+        {id: 14, phraseRu: "Мой босс всегда говорит это", phraseEn: "My boss always to say it"},
+        {id: 15, phraseRu: "Когда это происходит?", phraseEn: "When does it happen?"},
+        {id: 16, phraseRu: "У этой компании есть деньги", phraseEn: "This company has money"},
+        {id: 17, phraseRu: "У него есть компания", phraseEn: "He has a company"},
+        {id: 18, phraseRu: "Ее прибыль кажется такой большой", phraseEn: "Its profit seems so big"},
+        {id: 19, phraseRu: "Она помнит это", phraseEn: "She remembers it"},
+        {id: 20, phraseRu: "Мне реально нужны твои уроки", phraseEn: "I really need your lessons"},
+        {id: 21, phraseRu: "Те студенты говорят по-английски правильно?", phraseEn: "Do those students speak English correctly?"},
+        {id: 22, phraseRu: "Я хочу говорить по-английски правильно", phraseEn: "I want to speak English correctly"},
+        {id: 23, phraseRu: "Я хочу хорошую машину", phraseEn: "I want a good car"},
+        {id: 24, phraseRu: "Где он работает?", phraseEn: "Where does he work?"},
+        {id: 25, phraseRu: "Как часто происходят эти вещи?", phraseEn: "How often do these things happen?"},
+        {id: 26, phraseRu: "Кто знает это?", phraseEn: "Who knows it?"},
+        {id: 27, phraseRu: "Она видит эту ошибку", phraseEn: "She sees this mistake"},
+        {id: 28, phraseRu: "Я хочу улучшить свой английский", phraseEn: "I want to improve my English"},
+        {id: 29, phraseRu: "Мои родители хотят жить в другом месте", phraseEn: "My parents want to live in another place"},
+        {id: 30, phraseRu: "Твои друзья согласны с тобой?", phraseEn: "Does your friends agree with you?"},
+        {id: 31, phraseRu: "Он игнорирует все?", phraseEn: "Does he ignore everything?"},
+        {id: 32, phraseRu: "Эти результаты мотивируют тебя?", phraseEn: "Do these results motivete you?"},
+        {id: 33, phraseRu: "Ты хочешь знать свои ошибки?", phraseEn: "Do you want to know your mistakes?"},
+        {id: 34, phraseRu: "Ты согласен с ними?", phraseEn: "Do you agree with they?"},
+        {id: 35, phraseRu: "Мне нужно позвонить ему", phraseEn: "I need to call him"},
+        {id: 36, phraseRu: "Что интересует тебя?", phraseEn: "What interests you?"},
+        {id: 37, phraseRu: "Я действительно хочу улучшить свою грамматику", phraseEn: "I really want to improve my grammar"},
+        {id: 38, phraseRu: "Я хочу поехать туда еще один раз", phraseEn: "I want to go there one more time"},
+        {id: 39, phraseRu: "Я учусь здесь", phraseEn: "I study here"},
+        {id: 40, phraseRu: "Я хочу этот компьютер", phraseEn: "I want this computer"},
+        {id: 41, phraseRu: "Она часто говорит это?", phraseEn: "Does she often say it?"},
+        {id: 42, phraseRu: "Я не знаю", phraseEn: "I don`t know"},
+        {id: 43, phraseRu: "Тот студент делает ошибки?", phraseEn: "Does that student do mistakes?"},
+        {id: 44, phraseRu: "Нам нужно больше информации", phraseEn: "We need more information"},
+        {id: 45, phraseRu: "Они показывают блестящие результаты", phraseEn: "They show brilliant results"},
+        {id: 46, phraseRu: "Мы помним это", phraseEn: "We remember it"},
+        {id: 47, phraseRu: "Ты часто посещаешь это место?", phraseEn: "Do you often visit this place?"},
+        {id: 48, phraseRu: "Какие советы она дает тебе?", phraseEn: "What advises does she give you?"},
+        {id: 49, phraseRu: "Ты часто делаешь это?", phraseEn: "Do you often do it?"},
+        {id: 50, phraseRu: "Я хотел бы поехать за границу", phraseEn: "I`d like to go abroad"},
+        {id: 51, phraseRu: "Почему это интересует его?", phraseEn: "Why does it interest him?"},
       ]
     },
     lesson_24_2: {//62 проверить
@@ -3858,56 +4011,284 @@ let allLessons = {
         {id: 1, wordRu: "", wordEn: ""}
       ],
       phrases: [
-        {id: 1, phraseRu: "У меня есть сестра", phraseEn: ""},
-        {id: 2, phraseRu: "Ему нужно это", phraseEn: ""},
-        {id: 3, phraseRu: "Ты поддерживаешь его?", phraseEn: ""},
-        {id: 4, phraseRu: "Что привлекает его там?", phraseEn: ""},
-        {id: 5, phraseRu: "Что она обычно говорит?", phraseEn: ""},
-        {id: 6, phraseRu: "Как ты решаешь эти проблемы?", phraseEn: ""},
-        {id: 7, phraseRu: "Что кажется важным?", phraseEn: ""},
-        {id: 8, phraseRu: "Он живет в этом доме", phraseEn: ""},
-        {id: 9, phraseRu: "Мне нужно это", phraseEn: ""},
-        {id: 10, phraseRu: "Что реально помогает тебе?", phraseEn: ""},
-        {id: 11, phraseRu: "Я вижу это", phraseEn: ""},
-        {id: 12, phraseRu: "В какое время ты ложишься спать?", phraseEn: ""},
-        {id: 13, phraseRu: "Он помогает мне", phraseEn: ""},
-        {id: 14, phraseRu: "Сколько у тебя друзей?", phraseEn: ""},
-        {id: 15, phraseRu: "Ей нужно это", phraseEn: ""},
-        {id: 16, phraseRu: "Это действительно мотивирует тебя?", phraseEn: ""},
-        {id: 17, phraseRu: "Кто оддерживает тебя?", phraseEn: ""},
-        {id: 18, phraseRu: "Ты часто пользуешься интернетом?", phraseEn: ""},
-        {id: 19, phraseRu: "У тебя достаточно денег с собой?", phraseEn: ""},
-        {id: 20, phraseRu: "Ты часто ходишь в зал?", phraseEn: ""},
-        {id: 21, phraseRu: "Они учатся очень усердно", phraseEn: ""},
-        {id: 22, phraseRu: "Он всегда обещает это", phraseEn: ""},
-        {id: 23, phraseRu: "Я хочу иметь хорошую работу", phraseEn: ""},
-        {id: 24, phraseRu: "Сколько ошибок ты обычно делаешь?", phraseEn: ""},
-        {id: 25, phraseRu: "Ты мне действительно нужна", phraseEn: ""},
-        {id: 26, phraseRu: "Он чувствует себя счастливым", phraseEn: ""},
-        {id: 27, phraseRu: "Мне не нравится это", phraseEn: ""},
-        {id: 28, phraseRu: "Сколько английских слов ты знаешь?", phraseEn: ""},
-        {id: 29, phraseRu: "Где живут твои родители?", phraseEn: ""},
-        {id: 30, phraseRu: "Мне нужно улучшить свой английский", phraseEn: ""},
-        {id: 31, phraseRu: "Кто проверяет всю эту информацию?", phraseEn: ""},
-        {id: 32, phraseRu: "Что твой босс обычно обещает?", phraseEn: ""},
-        {id: 33, phraseRu: "Я хочу поехать туда еще один раз", phraseEn: ""},
-        {id: 34, phraseRu: "Я думаю ему нужно изменить свою жизнь", phraseEn: ""},
-        {id: 35, phraseRu: "Она пытается найти новую работу?", phraseEn: ""},
-        {id: 36, phraseRu: "Я занимаюсь бизнесом", phraseEn: ""},
-        {id: 37, phraseRu: "Где работает твой отец?", phraseEn: ""},
-        {id: 38, phraseRu: "Она живет в том месте", phraseEn: ""},
-        {id: 39, phraseRu: "Куда она обычно ходит?", phraseEn: ""},
-        {id: 40, phraseRu: "Мы хотим это", phraseEn: ""},
-        {id: 41, phraseRu: "Он пытается помочь мне", phraseEn: ""},
-        {id: 42, phraseRu: "Что ты знаешь?", phraseEn: ""},
-        {id: 43, phraseRu: "Я думаю тебе нужно работать меньше", phraseEn: ""},
-        {id: 44, phraseRu: "Какие напитки она предпочитает?", phraseEn: ""},
-        {id: 45, phraseRu: "Твоему другу нравится эта идея?", phraseEn: ""},
-        {id: 46, phraseRu: "Это действительно вдохновляет меня", phraseEn: ""},
-        {id: 47, phraseRu: "Эта информация кажется бесполезной?", phraseEn: ""},
-        {id: 48, phraseRu: "Ты поддерживаешь меня?", phraseEn: ""},
-        {id: 49, phraseRu: "Тебе нужна помощь?", phraseEn: ""},
-        {id: 50, phraseRu: "Ему не нужны эти деньги сейчас", phraseEn: ""},
+        {id: 1, phraseRu: "У меня есть сестра", phraseEn: "I have a sister"},
+        {id: 2, phraseRu: "Ему нужно это", phraseEn: "He need it"},
+        {id: 3, phraseRu: "Ты поддерживаешь его?", phraseEn: "Do you support him?"},
+        {id: 4, phraseRu: "Что привлекает его там?", phraseEn: "What attracts him there?"},
+        {id: 5, phraseRu: "Что она обычно говорит?", phraseEn: "What does she usually say?"},
+        {id: 6, phraseRu: "Как ты решаешь эти проблемы?", phraseEn: "How do you solve these problem?"},
+        {id: 7, phraseRu: "Что кажется важным?", phraseEn: "What seems important?"},
+        {id: 8, phraseRu: "Он живет в этом доме", phraseEn: "He lives in this house"},
+        {id: 9, phraseRu: "Мне нужно это", phraseEn: "I need it"},
+        {id: 10, phraseRu: "Что реально помогает тебе?", phraseEn: "What really helps you?"},
+        {id: 11, phraseRu: "Я вижу это", phraseEn: "I see it"},
+        {id: 12, phraseRu: "В какое время ты ложишься спать?", phraseEn: "What time do you go to bed?"},
+        {id: 13, phraseRu: "Он помогает мне", phraseEn: "He helps me"},
+        {id: 14, phraseRu: "Сколько у тебя друзей?", phraseEn: "How many do you have friends?"},
+        {id: 15, phraseRu: "Ей нужно это", phraseEn: "She needs it"},
+        {id: 16, phraseRu: "Это действительно мотивирует тебя?", phraseEn: "Does it really motivate you?"},
+        {id: 17, phraseRu: "Кто поддерживает тебя?", phraseEn: "Who supports you?"},
+        {id: 18, phraseRu: "Ты часто пользуешься интернетом?", phraseEn: "Do you often use the internet?"},
+        {id: 19, phraseRu: "У тебя достаточно денег с собой?", phraseEn: "Do you enough money with you?"},
+        {id: 20, phraseRu: "Ты часто ходишь в зал?", phraseEn: "Do you often go to the gym?"},
+        {id: 21, phraseRu: "Они учатся очень усердно", phraseEn: "They learn very hard"},
+        {id: 22, phraseRu: "Он всегда обещает это", phraseEn: "He alvays promice it"},
+        {id: 23, phraseRu: "Я хочу иметь хорошую работу", phraseEn: "I want to have a good job"},
+        {id: 24, phraseRu: "Сколько ошибок ты обычно делаешь?", phraseEn: "How much mistakes do you usually make?"},
+        {id: 25, phraseRu: "Ты мне действительно нужна", phraseEn: "I really need you"},
+        {id: 26, phraseRu: "Он чувствует себя счастливым", phraseEn: "He feels happy"},
+        {id: 27, phraseRu: "Мне не нравится это", phraseEn: "I don`t like it"},
+        {id: 28, phraseRu: "Сколько английских слов ты знаешь?", phraseEn: "How many English words do you know?"},
+        {id: 29, phraseRu: "Где живут твои родители?", phraseEn: "Where does your parents live?"},
+        {id: 30, phraseRu: "Мне нужно улучшить свой английский", phraseEn: "I need to improve my English"},
+        {id: 31, phraseRu: "Кто проверяет всю эту информацию?", phraseEn: "Who checks all this information?"},
+        {id: 32, phraseRu: "Что твой босс обычно обещает?", phraseEn: "What does your boss usually promice?"},
+        {id: 33, phraseRu: "Я хочу поехать туда еще один раз", phraseEn: "I want to go there one more time"},
+        {id: 34, phraseRu: "Я думаю ему нужно изменить свою жизнь", phraseEn: "I think he needs to change his life"},
+        {id: 35, phraseRu: "Она пытается найти новую работу?", phraseEn: "Does she try to find a new job?"},
+        {id: 36, phraseRu: "Я занимаюсь бизнесом", phraseEn: "I do business"},
+        {id: 37, phraseRu: "Где работает твой отец?", phraseEn: "Where does your father work?"},
+        {id: 38, phraseRu: "Она живет в том месте", phraseEn: "She lives in that place"},
+        {id: 39, phraseRu: "Куда она обычно ходит?", phraseEn: "Where does she usually go?"},
+        {id: 40, phraseRu: "Мы хотим это", phraseEn: "We want it"},
+        {id: 41, phraseRu: "Он пытается помочь мне", phraseEn: "He tryes to help me"},
+        {id: 42, phraseRu: "Что ты знаешь?", phraseEn: "What do you know?"},
+        {id: 43, phraseRu: "Я думаю тебе нужно работать меньше", phraseEn: "I think you need to work less"},
+        {id: 44, phraseRu: "Какие напитки она предпочитает?", phraseEn: "What drinks does she prefer?"},
+        {id: 45, phraseRu: "Твоему другу нравится эта идея?", phraseEn: "Does your friend like this idea?"},
+        {id: 46, phraseRu: "Это действительно вдохновляет меня", phraseEn: "Does it really inspire me?"},
+        {id: 47, phraseRu: "Эта информация кажется бесполезной?", phraseEn: "Does it information seem useless?"},
+        {id: 48, phraseRu: "Ты поддерживаешь меня?", phraseEn: "Do you support me?"},
+        {id: 49, phraseRu: "Тебе нужна помощь?", phraseEn: "Do you need help?"},
+        {id: 50, phraseRu: "Ему не нужны эти деньги сейчас", phraseEn: "He doesn`t need this money now"},
+      ]
+    },
+    lesson_24_3: {//63 проверить
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        {id: 1, phraseRu: "Ему нравится это платье", phraseEn: ""},
+        {id: 2, phraseRu: "Какие книги она предпочитает читать?", phraseEn: ""},
+        {id: 3, phraseRu: "Почему тебе нравится этот канал?", phraseEn: ""},
+        {id: 4, phraseRu: "Он старается найти больше времени для английского", phraseEn: ""},
+        {id: 5, phraseRu: "Это реально помогает мне", phraseEn: ""},
+        {id: 6, phraseRu: "Мне нужно тренировать свою память", phraseEn: ""},
+        {id: 7, phraseRu: "Тебе нужно это", phraseEn: ""},
+        {id: 8, phraseRu: "Моя мама приходит домой рано", phraseEn: ""},
+        {id: 9, phraseRu: "Мне действительно нравится это место", phraseEn: ""},
+        {id: 10, phraseRu: "Это иногда происходит?", phraseEn: ""},
+        {id: 11, phraseRu: "Ей нравится эта профессия?", phraseEn: ""},
+        {id: 12, phraseRu: "Кто проверяет всю информацию?", phraseEn: ""},
+        {id: 13, phraseRu: "Какой совет твои учителя дают тебе?", phraseEn: ""},
+        {id: 14, phraseRu: "Мой отец приходит домой поздно", phraseEn: ""},
+        {id: 15, phraseRu: "Мы не понимаем это", phraseEn: ""},
+        {id: 16, phraseRu: "Мы живем в России", phraseEn: ""},
+        {id: 17, phraseRu: "Твоей маме нужно работать меньше", phraseEn: ""},
+        {id: 18, phraseRu: "Я хотел бы стать бизнесменом", phraseEn: ""},
+        {id: 19, phraseRu: "Я хочу поехать туда снова", phraseEn: ""},
+        {id: 20, phraseRu: "Я очень хорошо знаю это", phraseEn: ""},
+        {id: 21, phraseRu: "Где она учится?", phraseEn: ""},
+        {id: 22, phraseRu: "Как регулярно твои учителя говорят тебе эти вещи?", phraseEn: ""},
+        {id: 23, phraseRu: "Это не работает", phraseEn: ""},
+        {id: 24, phraseRu: "Я хочу выучить английский быстро", phraseEn: ""},
+        {id: 25, phraseRu: "Какие каналы он обычно смотрит?", phraseEn: ""},
+        {id: 26, phraseRu: "Я работаю там", phraseEn: ""},
+        {id: 27, phraseRu: "Что мотивирует тебя больше?", phraseEn: ""},
+        {id: 28, phraseRu: "Мой друг хочет проверить это еще один раз", phraseEn: ""},
+        {id: 29, phraseRu: "Ты часто ходишь туда?", phraseEn: ""},
+        {id: 30, phraseRu: "Мне нравится это видео", phraseEn: ""},
+        {id: 31, phraseRu: "Тот метод кажется бесполезным", phraseEn: ""},
+        {id: 32, phraseRu: "Ей реально нравится это?", phraseEn: ""},
+        {id: 33, phraseRu: "Он хотел бы заказать это онлайн", phraseEn: ""},
+        {id: 34, phraseRu: "Кого ты поддерживаешь?", phraseEn: ""},
+        {id: 35, phraseRu: "Сколько по времени у тебя занимает добраться до школы?", phraseEn: ""},
+        {id: 36, phraseRu: "Я не хочу жить в этой стране", phraseEn: ""},
+        {id: 37, phraseRu: "Эти студенты показывают блестящие результаты", phraseEn: ""},
+        {id: 38, phraseRu: "Они согласны с нами?", phraseEn: ""},
+        {id: 39, phraseRu: "Он объясняет все очень хорошо", phraseEn: ""},
+        {id: 40, phraseRu: "Как часто он ходит в зоопарк?", phraseEn: ""},
+        {id: 41, phraseRu: "Я хожу в школу", phraseEn: ""},
+        {id: 42, phraseRu: "У моего друга есть машина", phraseEn: ""},
+        {id: 43, phraseRu: "Мне нужно решить ту проблему", phraseEn: ""},
+        {id: 44, phraseRu: "Им нравится это", phraseEn: ""},
+        {id: 45, phraseRu: "Я не хочу обсуждать это", phraseEn: ""},
+        {id: 46, phraseRu: "Я действительно хочу это знать", phraseEn: ""},
+        {id: 47, phraseRu: "У него есть собака", phraseEn: ""},
+        {id: 48, phraseRu: "Как ты добираешься туда?", phraseEn: ""},
+        {id: 49, phraseRu: "Он живет там?", phraseEn: ""},
+        {id: 50, phraseRu: "Он хотел бы стать бизнесменом", phraseEn: ""},
+      ]
+    },
+    lesson_25_1: {//64 проверить
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        {id: 1, phraseRu: "Ему нравится это?", phraseEn: ""},
+        {id: 2, phraseRu: "Я хочу практиковать английский сейчас", phraseEn: ""},
+        {id: 3, phraseRu: "Она ходит в школу с большим удовольствием", phraseEn: ""},
+        {id: 4, phraseRu: "Я хочу говорить по-английски без ошибок", phraseEn: ""},
+        {id: 5, phraseRu: "Тебе нужно запомнить это", phraseEn: ""},
+        {id: 6, phraseRu: "Нам нужно это", phraseEn: ""},
+        {id: 7, phraseRu: "Тебе нужно изменить это", phraseEn: ""},
+        {id: 8, phraseRu: "Она не хочет об этом думать", phraseEn: ""},
+        {id: 9, phraseRu: "Когда ты ходишь на работу?", phraseEn: ""},
+        {id: 10, phraseRu: "Я понимаю тебя", phraseEn: ""},
+        {id: 11, phraseRu: "Ей нужно прийти в то место?", phraseEn: ""},
+        {id: 12, phraseRu: "Почуму они зависят от тебя?", phraseEn: ""},
+        {id: 13, phraseRu: "Сколько по времени занимает у твоего друга добраться туда?", phraseEn: ""},
+        {id: 14, phraseRu: "Какого рода книги ты читаешь?", phraseEn: ""},
+        {id: 15, phraseRu: "Почему твоя мама думает так?", phraseEn: ""},
+        {id: 16, phraseRu: "Он хочет сделать это", phraseEn: ""},
+        {id: 17, phraseRu: "Мне нравится этот совет", phraseEn: ""},
+        {id: 18, phraseRu: "Какой совет твои друзья дают тебе?", phraseEn: ""},
+        {id: 19, phraseRu: "Я хотел бы сделать это", phraseEn: ""},
+        {id: 20, phraseRu: "Он иногда играет в компьютерные игры", phraseEn: ""},
+        {id: 21, phraseRu: "Он платит за это?", phraseEn: ""},
+        {id: 22, phraseRu: "У меня есть машина", phraseEn: ""},
+        {id: 23, phraseRu: "Я работаю очень усердно", phraseEn: ""},
+        {id: 24, phraseRu: "Они не помогают мне", phraseEn: ""},
+        {id: 25, phraseRu: "Ему нравится этот проект?", phraseEn: ""},
+        {id: 26, phraseRu: "Этот экзамен кажется очень сложным?", phraseEn: ""},
+        {id: 27, phraseRu: "Ты помогаешь мне", phraseEn: ""},
+        {id: 28, phraseRu: "Я хотел бы практиковать английский", phraseEn: ""},
+        {id: 29, phraseRu: "Я понимаю", phraseEn: ""},
+        {id: 30, phraseRu: "Мы живем здесь", phraseEn: ""},
+        {id: 31, phraseRu: "Как часто происходят эти вещи?", phraseEn: ""},
+        {id: 32, phraseRu: "Мой отец уходит из дома очень рано", phraseEn: ""},
+        {id: 33, phraseRu: "Он не работает там", phraseEn: ""},
+        {id: 34, phraseRu: "Он работает здесь", phraseEn: ""},
+        {id: 35, phraseRu: "Эти уроки помогают тебе?", phraseEn: ""},
+        {id: 36, phraseRu: "Мне нужно проверить это", phraseEn: ""},
+        {id: 37, phraseRu: "Она также думает так", phraseEn: ""},
+        {id: 38, phraseRu: "У нее есть интересная идея", phraseEn: ""},
+        {id: 39, phraseRu: "Почему те вещи происходят?", phraseEn: ""},
+        {id: 40, phraseRu: "Он действительно ненавидит это", phraseEn: ""},
+        {id: 41, phraseRu: "Это выглядит странным", phraseEn: ""},
+        {id: 42, phraseRu: "Какие уроки твой учитель находит реально полезными?", phraseEn: ""},
+        {id: 43, phraseRu: "Ему нужно больше денег", phraseEn: ""},
+        {id: 44, phraseRu: "Что кажется таким интересным?", phraseEn: ""},
+        {id: 45, phraseRu: "Ей нравится это", phraseEn: ""},
+        {id: 46, phraseRu: "Он работает в другом месте?", phraseEn: ""},
+        {id: 47, phraseRu: "Он иногда хочет сделать это", phraseEn: ""},
+        {id: 48, phraseRu: "Мы показываем хорошие результаты?", phraseEn: ""},
+        {id: 49, phraseRu: "Ты видишь это", phraseEn: ""},
+        {id: 50, phraseRu: "Его отцу нужны деньги", phraseEn: ""},
+      ]
+    },
+    lesson_25_2: {//65 проверить
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        {id: 1, phraseRu: "Это вовсе не интересует меня", phraseEn: ""},
+        {id: 2, phraseRu: "Ты говоришь по-английски очень хорошо", phraseEn: ""},
+        {id: 3, phraseRu: "Ему нужно найти хорошую работу", phraseEn: ""},
+        {id: 4, phraseRu: "Что она обычно говорит ему?", phraseEn: ""},
+        {id: 5, phraseRu: "Я хочу говорить по-английски лучше", phraseEn: ""},
+        {id: 6, phraseRu: "Он реально думает так", phraseEn: ""},
+        {id: 7, phraseRu: "У него нет этой информации", phraseEn: ""},
+        {id: 8, phraseRu: "Его отец занимается бизнесом?", phraseEn: ""},
+        {id: 9, phraseRu: "Они хотят решить эти проблемы прямо сейчас", phraseEn: ""},
+        {id: 10, phraseRu: "Я не хочу пить", phraseEn: ""},
+        {id: 11, phraseRu: "Где ты живешь?", phraseEn: ""},
+        {id: 12, phraseRu: "Почему тебе нужно сделать это сейчас?", phraseEn: ""},
+        {id: 13, phraseRu: "Почему он жалуется так часто?", phraseEn: ""},
+        {id: 14, phraseRu: "Это зависит от него", phraseEn: ""},
+        {id: 15, phraseRu: "Сколько по времени занимает у его сына добраться до работы?", phraseEn: ""},
+        {id: 16, phraseRu: "Мне нравится этот канал так же", phraseEn: ""},
+        {id: 17, phraseRu: "Моему другу нужен твой совет прямо сейчас", phraseEn: ""},
+        {id: 18, phraseRu: "Мне нужно позвонить им", phraseEn: ""},
+        {id: 19, phraseRu: "Как часто ты слушаешь радио?", phraseEn: ""},
+        {id: 20, phraseRu: "Он часто слышит это?", phraseEn: ""},
+        {id: 21, phraseRu: "Она преподает это", phraseEn: ""},
+        {id: 22, phraseRu: "Тебе нужно больше денег?", phraseEn: ""},
+        {id: 23, phraseRu: "Почему твой друг хочет искать новую работу?", phraseEn: ""},
+        {id: 24, phraseRu: "У меня есть брат", phraseEn: ""},
+        {id: 25, phraseRu: "Как она тестирует их знания?", phraseEn: ""},
+        {id: 26, phraseRu: "Он не разделяет твою точку зрения", phraseEn: ""},
+        {id: 27, phraseRu: "Мне нужна эта информация", phraseEn: ""},
+        {id: 28, phraseRu: "Он читает на английском", phraseEn: ""},
+        {id: 29, phraseRu: "Как регулярно твой учитель говорит это?", phraseEn: ""},
+        {id: 30, phraseRu: "Она хочет пойти в парк", phraseEn: ""},
+        {id: 31, phraseRu: "Мой брат хочет это", phraseEn: ""},
+        {id: 32, phraseRu: "Мне нравится этот плейлист", phraseEn: ""},
+        {id: 33, phraseRu: "Она хочет большего", phraseEn: ""},
+        {id: 34, phraseRu: "Им нужно это", phraseEn: ""},
+        {id: 35, phraseRu: "Я не хочу говорить тебе эту вещь", phraseEn: ""},
+        {id: 36, phraseRu: "Он также работает здесь", phraseEn: ""},
+        {id: 37, phraseRu: "Как ты обычно проводишь свое свободное время?", phraseEn: ""},
+        {id: 38, phraseRu: "Как он решает эти проблемы?", phraseEn: ""},
+        {id: 39, phraseRu: "Кто контролирует это?", phraseEn: ""},
+        {id: 40, phraseRu: "Кого он контролирует?", phraseEn: ""},
+        {id: 41, phraseRu: "Она хочет сделать это", phraseEn: ""},
+        {id: 42, phraseRu: "Он пытается делать это", phraseEn: ""},
+        {id: 43, phraseRu: "Какого рода фильмы она смотрит?", phraseEn: ""},
+        {id: 44, phraseRu: "Тебе нужно решить эту проблему прямо сейчас?", phraseEn: ""},
+        {id: 45, phraseRu: "Нам действительно нравится этот канал", phraseEn: ""},
+        {id: 46, phraseRu: "Ты ходишь в школу?", phraseEn: ""},
+        {id: 47, phraseRu: "Мой отец занимается бизнесом", phraseEn: ""},
+        {id: 48, phraseRu: "Мне нужно выйчить английский", phraseEn: ""},
+        {id: 49, phraseRu: "Мне действительно нравятся эти упражнения", phraseEn: ""},
+        {id: 50, phraseRu: "Я делаю ошибки?", phraseEn: ""},
+      ]
+    },
+    lesson_1: {
+      newWords: [
+        {id: 1, wordRu: "", wordEn: ""}
+      ],
+      phrases: [
+        {id: 1, phraseRu: "", phraseEn: ""},
+        {id: 2, phraseRu: "", phraseEn: ""},
+        {id: 3, phraseRu: "", phraseEn: ""},
+        {id: 4, phraseRu: "", phraseEn: ""},
+        {id: 5, phraseRu: "", phraseEn: ""},
+        {id: 6, phraseRu: "", phraseEn: ""},
+        {id: 7, phraseRu: "", phraseEn: ""},
+        {id: 8, phraseRu: "", phraseEn: ""},
+        {id: 9, phraseRu: "", phraseEn: ""},
+        {id: 10, phraseRu: "", phraseEn: ""},
+        {id: 11, phraseRu: "", phraseEn: ""},
+        {id: 12, phraseRu: "", phraseEn: ""},
+        {id: 13, phraseRu: "", phraseEn: ""},
+        {id: 14, phraseRu: "", phraseEn: ""},
+        {id: 15, phraseRu: "", phraseEn: ""},
+        {id: 16, phraseRu: "", phraseEn: ""},
+        {id: 17, phraseRu: "", phraseEn: ""},
+        {id: 18, phraseRu: "", phraseEn: ""},
+        {id: 19, phraseRu: "", phraseEn: ""},
+        {id: 20, phraseRu: "", phraseEn: ""},
+        {id: 21, phraseRu: "", phraseEn: ""},
+        {id: 22, phraseRu: "", phraseEn: ""},
+        {id: 23, phraseRu: "", phraseEn: ""},
+        {id: 24, phraseRu: "", phraseEn: ""},
+        {id: 25, phraseRu: "", phraseEn: ""},
+        {id: 26, phraseRu: "", phraseEn: ""},
+        {id: 27, phraseRu: "", phraseEn: ""},
+        {id: 28, phraseRu: "", phraseEn: ""},
+        {id: 29, phraseRu: "", phraseEn: ""},
+        {id: 30, phraseRu: "", phraseEn: ""},
+        {id: 31, phraseRu: "", phraseEn: ""},
+        {id: 32, phraseRu: "", phraseEn: ""},
+        {id: 33, phraseRu: "", phraseEn: ""},
+        {id: 34, phraseRu: "", phraseEn: ""},
+        {id: 35, phraseRu: "", phraseEn: ""},
+        {id: 36, phraseRu: "", phraseEn: ""},
+        {id: 37, phraseRu: "", phraseEn: ""},
+        {id: 38, phraseRu: "", phraseEn: ""},
+        {id: 39, phraseRu: "", phraseEn: ""},
+        {id: 40, phraseRu: "", phraseEn: ""},
+        {id: 41, phraseRu: "", phraseEn: ""},
+        {id: 42, phraseRu: "", phraseEn: ""},
+        {id: 43, phraseRu: "", phraseEn: ""},
+        {id: 44, phraseRu: "", phraseEn: ""},
+        {id: 45, phraseRu: "", phraseEn: ""},
+        {id: 46, phraseRu: "", phraseEn: ""},
+        {id: 47, phraseRu: "", phraseEn: ""},
+        {id: 48, phraseRu: "", phraseEn: ""},
+        {id: 49, phraseRu: "", phraseEn: ""},
+        {id: 50, phraseRu: "", phraseEn: ""},
       ]
     },
     lesson_1: {
