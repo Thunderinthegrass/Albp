@@ -3090,5 +3090,46 @@ fs.writeFile("correctlyFile.js", JSON.stringify(phrasesResult), () => {
   
 });
 
+const DIGITS = ['1', '2', '3', '4', '5', '6', '7', '8', '9'];
+
+function generatePasswords() {
+  function rec(pos, prev, usedSix, acc) {
+    if (pos === 6) {
+      if (usedSix) yield acc;
+      return;
+    }
+
+    for (const d of DIGITS) {
+      // запрет одинаковых цифр подряд
+      if (d === prev) continue;
+
+      // ровно одна шестёрка
+      if (d === '6') {
+        if (usedSix) continue;
+        yield rec(pos + 1, d, true, acc + d);
+      } else {
+        yield rec(pos + 1, d, usedSix, acc + d);
+      }
+    }
+  }
+
+  yield rec(0, '', false, '');
+}
+
+// Проверка
+let count = 0;
+let first = null;
+let last = null;
+
+for (const password of generatePasswords()) {
+  if (first === null) first = password;
+  last = password;
+  count++;
+}
+
+console.log(count); // 126224
+console.log(first); // 121216
+console.log(last);  // 989896
+
 
 
